@@ -15,7 +15,7 @@ configure; make; make install
 
 # Install Steps
 ```bash
-./configure  $ generate configure from configure.ac && generate Makefile from Makefile.in
+./configure  # generate configure from configure.ac && generate Makefile from Makefile.in
 make  # use the generated Makefile to build the program
 make install  # use the generated Makefile to install the program
 ```
